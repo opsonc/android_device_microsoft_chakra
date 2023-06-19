@@ -18,9 +18,9 @@
 set -e
 
 # Required!
-export DEVICE=condor
+export DEVICE=chakra
 export DEVICE_COMMON=msm8610-common
-export VENDOR=motorola
+export VENDOR=microsoft
 
 export DEVICE_BRINGUP_YEAR=2014
 
