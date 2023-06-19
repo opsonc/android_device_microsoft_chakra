@@ -12,7 +12,7 @@ GPU     | Adreno 302
 Memory  | 1GB RAM
 Shipped WM Version | 8.1, upgradable to W10M RS1
 Storage | 8GB
-MicroSD | Upto 32 GB
+MicroSD | Up to 32 GB
 Battery | 1905 mAh
 Display | 5.52 x 2.85 x 0.35 in
 Camera  | 5 MP
