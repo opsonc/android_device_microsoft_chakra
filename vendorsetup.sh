@@ -1,2 +1,2 @@
-add_lunch_combo gzosp_condor-userdebug
-add_lunch_combo gzosp_condor-eng
+add_lunch_combo gzosp_chakra-userdebug
+add_lunch_combo gzosp_chakra-eng
