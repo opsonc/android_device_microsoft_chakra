@@ -17,4 +17,4 @@ Battery | 1905 mAh
 Display | 5.52 x 2.85 x 0.35 in
 Camera  | 5 MP
 
-![Lumia 535](https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-535-1.jpg?size=256" Lumia 535")
+![Lumia 535](https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-535-1.jpg?size=256 "Lumia 535")
