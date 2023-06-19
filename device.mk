@@ -19,10 +19,10 @@
 #
 # Everything in this directory will become public
 
-LOCAL_PATH := device/motorola/condor
+LOCAL_PATH := device/micorosoft/chakra
 
 # device specific vendor blobs
-$(call inherit-product-if-exists, vendor/motorola/condor/condor-vendor.mk)
+# $(call inherit-product-if-exists, vendor/motorola/condor/condor-vendor.mk)
 
 # Common Android Go configurations
 $(call inherit-product, build/target/product/go_defaults.mk)
